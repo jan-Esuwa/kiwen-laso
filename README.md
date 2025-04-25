@@ -1,5 +1,7 @@
 # musi Pokemon nanpa kiwen laso
 
+![musi Pokemon nanpa kiwen laso](name_in_sitelen_pona.png)
+
 **musi Pokemon nanpa kiwen laso** is a translation of "Pokémon Emerald" into Toki Pona. It is based on [PRET's Pokémon Emerald decompilation](https://github.com/pret/pokeemerald/) to implement sitelen pona symbols into the font.
 
 ## Features
