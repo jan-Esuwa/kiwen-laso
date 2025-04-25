@@ -31,7 +31,8 @@ build/
 .idea/
 porymap.*.cfg
 prefabs.json
-.vscode/
+# DISABLED - ensure editor settings (this includes markdownlint) are consistent
+#.vscode/
 *.a
 .fuse_hidden*
 *.sna
@@ -40,3 +41,7 @@ prefabs.json
 *.js
 /pokeemerald-*.png
 /pokeemerald_modern-*.png
+
+# Development of kiwen-laso
+# WIP font files
+*.pdn
