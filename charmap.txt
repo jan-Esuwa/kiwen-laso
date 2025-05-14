@@ -1090,30 +1090,3 @@ EMOJI_BIGANGER = F9 FE
 
 @ sitelen pona
 @ max 20 per line for best display
-
-A                  = F9 20
-AKESI              = F9 21
-ALA                = F9 22
-ALASA              = F9 23
-ALE                = F9 24
-ANTE               = F9 25
-@ ANU
-@ AWEN
-@ E                 
-@ EN
-@ ESUN
-@ IJO               
-@ IKE
-@ ILO
-@ INSA
-@ JAKI              
-@ JAN
-@ JELO
-@ JO
-@ KALA              
-@ KALAMA
-@ KAMA              
-@ KASI              
-@ KEN               
-@ KEPEKEN           
-@ KIJETESANTAKALU = 
